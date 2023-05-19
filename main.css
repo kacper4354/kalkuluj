@@ -294,6 +294,11 @@ body {
         height: 300px;
     }
 }
+@media (max-width:365px) {
+    #conventer {
+        height: 400px;
+    }
+}
 @media (max-width:385px) {
     .Classcategoryname {
         width: 280px !important;
