@@ -291,12 +291,7 @@ body {
 }
 @media (max-width:385px) {
     #conventer {
-        height: 300px;
-    }
-}
-@media (max-width:380px) {
-    #conventer {
-        height: 500px;
+        height: 400px;
     }
 }
 @media (max-width:385px) {
